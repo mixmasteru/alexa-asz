@@ -1,0 +1,12 @@
+GetNewQuoteIntent erzähle mir etwas
+GetNewQuoteIntent ein Zitat
+GetNewQuoteIntent ein Zitat von Schopenhauer
+GetNewQuoteIntent ein Zitat von Arthur Schopenhauer 
+GetNewQuoteIntent sage mir ein ein Zitat von Arthur Schopenhauer
+GetNewQuoteIntent sage mir ein Schopenhauer Zitat
+GetNewQuoteIntent gib mir ein Zitat von Arthur Schopenhauer
+GetNewQuoteIntent gib mir ein Zitat von Schopenhauer
+GetNewQuoteIntent erzähle mir ein Zitat von Schopenhauer
+GetNewQuoteIntent sage mir etwas von Arthur Schopenhauer
+GetNewQuoteIntent was hat Arthur Schopenhauer gesagt
+GetNewQuoteIntent was hat Schopenhauer gesagt
