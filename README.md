@@ -15,7 +15,7 @@ Alle Zitat sind gemeinfrei und mit Quellenangabe abrufbar unter: https://de.wiki
 ## Example Phrases
 * Alexa Öffne Schopenhauer Zitate
 * Alexa frage Schopenhauer Zitate nach einem Zitat
-* Alexa sage mir ein Schopenhauer Zitat
+* Sage mir ein Schopenhauer Zitat
 
 ### filter dump
 ```
