@@ -1,5 +1,6 @@
 GetNewQuoteIntent erzähle mir etwas
 GetNewQuoteIntent ein Zitat
+GetNewQuoteIntent einem Zitat
 GetNewQuoteIntent ein Zitat von Schopenhauer
 GetNewQuoteIntent ein Zitat von Arthur Schopenhauer 
 GetNewQuoteIntent sage mir ein ein Zitat von Arthur Schopenhauer
